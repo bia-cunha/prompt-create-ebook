@@ -10,7 +10,7 @@ Este projeto tem como objetivo gerar um eBook digital utilizando o poder das fer
 
 - **[ChatGPT](https://chatgpt.com/)**
 - **[Gemini](https://gemini.google.com/)**
-- **[PowerPoint]()** 
+- **[PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint?market=af)** 
 
 ---
 
@@ -35,7 +35,7 @@ Este projeto tem como objetivo gerar um eBook digital utilizando o poder das fer
 
 | Ação      | Prompt                                                                                      |
 |-----------|---------------------------------------------------------------------------------------------|
-| Capa      | Crie uma imagem no estilo de Ghibliacordo com o titulo Jutsu Java: Domine o Caminho do Código Ninja. Na imagem quero uma ninja parecida com a Hinata do Naruto, sentada em uma cafeteria, com um notebook sobre a mesa e do lado do notebook uma xicara de café na cor branca    |
+| Capa      | Crie uma imagem no estilo de Ghibli de acordo com o titulo Jutsu Java: Domine o Caminho do Código Ninja. Na imagem quero uma ninja parecida com a Hinata do Naruto, sentada em uma cafeteria, com um notebook sobre a mesa e do lado do notebook uma xicara de café na cor branca    |
 
 ---
 
