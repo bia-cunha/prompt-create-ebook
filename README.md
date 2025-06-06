@@ -2,15 +2,15 @@
 
 Este projeto tem como objetivo gerar um eBook digital utilizando o poder das ferramentas de Inteligência Artificial. Todo o conteúdo — texto, imagens e estrutura — foi criado com o apoio de IAs. Os prompts utilizados estão listados abaixo.
 
-📕 **[Clique aqui para ler o eBook](#)**
+📕 **[Clique aqui para ler o eBook](https://github.com/bia-cunha/prompt-create-ebook/blob/main/E-book%20-%20Java%20Kage.pdf)**
 
 ---
 
 ## 💻 Tecnologias Utilizadas
 
-- ChatGPT
-- Gemini
-- PowerPoint 
+- **[ChatGPT](https://chatgpt.com/)**
+- **[Gemini](https://gemini.google.com/)**
+- **[PowerPoint]()** 
 
 ---
 
